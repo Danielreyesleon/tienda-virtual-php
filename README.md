@@ -1,2 +1,2 @@
 # tienda-virtual-php
-un pequeñio proyecto de php 
+Este fue el proyecto final del curso de PHP en la Universidad Fidelitas.
